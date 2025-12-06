@@ -29,8 +29,8 @@ This is a responsive, print-ready CV that displays information in a minimalist d
 
 1. **Clone or Download the Project**
    ```bash
-   git clone https://github.com/chandrusm0071/Single-Page-CV.git
-   cd Single-Page-CV
+   git clone https://github.com/chandrusm0071/Single-Page_CV.git
+   cd CV-Project
    ```
 
 2. **Open the HTML File**
@@ -122,9 +122,9 @@ Simply add or duplicate section blocks as needed:
 
 ## 🔗 Project Page URL
 
-**Project URL:** [View CV Online](https://chandrusm0071.github.io/Single-Page-CV/)
+**Live Preview (Project URL):** [https://chandrusm0071.github.io/Single-Page-CV/](https://chandrusm0071.github.io/Single-Page-CV/)
 
-**GitHub Repository:** [Chandru S M - CV Project](https://github.com/chandrusm0071/Single-Page-CV)
+**GitHub Repository:** [https://github.com/chandrusm0071/Single-Page-CV](https://github.com/chandrusm0071/Single-Page-CV)
 
 **LinkedIn Profile:** [linkedin.com/in/chandru-s-m-479246294](https://www.linkedin.com/in/chandru-s-m-479246294)
 
