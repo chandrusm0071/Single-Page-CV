@@ -122,9 +122,9 @@ Simply add or duplicate section blocks as needed:
 
 ## 🔗 Project Page URL
 
-**Live Preview:** [View CV Online](https://chandrusm0071.github.io/Single-Page-CV/)
+**Project URL:** [View CV Online](https://chandrusm0071.github.io/Single-Page-CV/)
 
-**GitHub Repository:** [Chandru S M - CV Project](https://github.com/chandrusm0071)
+**GitHub Repository:** [Chandru S M - CV Project](https://github.com/chandrusm0071/Single-Page-CV)
 
 **LinkedIn Profile:** [linkedin.com/in/chandru-s-m-479246294](https://www.linkedin.com/in/chandru-s-m-479246294)
 
